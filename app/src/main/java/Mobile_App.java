@@ -1,3 +1,6 @@
+package com.example.mobapp;
+
+import com.example.mobapp.R;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
@@ -8,7 +11,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.mobapp.R;
+
 
 public class Mobile_App extends AppCompatActivity {
 

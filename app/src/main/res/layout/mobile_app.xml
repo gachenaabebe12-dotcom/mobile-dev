@@ -18,7 +18,9 @@
         android:id="@+id/fname_edit"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:hint="enter name here"/>
+        android:hint="enter name here"
+        />
+
     <Button android:id="@+id/bsave"
         android:text="submit"
         android:textSize="20sp"
